@@ -2,3 +2,18 @@ p {
     color: blue;
     font-size: x-large;
 }
+
+/* this bit of code was taken directly from the love running project, but changed teh colour of the footer */
+.social-networks {
+    text-align: center; 
+  }
+  
+  .social-networks li {
+    display: inline; 
+  }
+  
+  .social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: black;
