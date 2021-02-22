@@ -1,18 +1,44 @@
-p {
-    color: blue;
-    font-size: x-large;
-}
+
+
+* {
+    margin:0;
+    padding:0;
+    border:0;
+  }
+  
+body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1rem;
+  }
+
+#logo {
+    font-family: 'Crimson Pro', serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    float: left;
+  }
+
+#motto {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1rem;
+    float: right;
+  }
+
+footer {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1rem;
+  }
 
 /* this bit of code was taken directly from the love running project, but changed the colour of the footer */
 .social-networks {
     text-align: center; 
   }
   
-  .social-networks li {
+.social-networks li {
     display: inline; 
   }
   
-  .social-networks i {
+.social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
