@@ -7,25 +7,32 @@
   }
   
 body {
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Raleway', serif;
     font-size: 1rem;
   }
 
 #logo {
-    font-family: 'Crimson Pro', serif;
-    font-size: 2rem;
-    text-transform: uppercase;
     float: left;
+    margin: 30px;
   }
 
+h2 {
+    font-family: 'Raleway', serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color:black;
+}
+
 #motto {
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Raleway', serif;
     font-size: 1rem;
     float: right;
+    margin: 30px;
+    color:black;
   }
 
 footer {
-    font-family: 'Crimson Pro', serif;
+    font-family: 'Raleway', serif;
     font-size: 1rem;
   }
 
