@@ -32,6 +32,10 @@ h2 {
     color:black;
   }
 
+#menu {
+  background-color: ghostwhite;
+}
+
 #blurb {
     text-align: center;
 }
