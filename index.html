@@ -30,11 +30,15 @@
                     </div>
                 </div>
                 <!-- this is the menu bar. stretches in desktop, dropdown in mobile (next to club name)-->
-                <!-- the navbar taken from bootstrap. navbar currently only displays in desktop and about dropdown menu doesn't work-->
+                <!-- the navbar taken from bootstrap-->
                 <div class="row">
                     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                          <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                            <ul class="navbar-nav">
+                        <div class="container-fluid">
+                          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                          </button>
+                          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                               <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                               </li>
@@ -190,5 +194,5 @@ Also had a brief problem where the love running code part altered the social med
 Found the correct carousel part on bootsrtap and added that in. Fixed the sliding images. Had a slight issue with the text on the pictures not being visible, so had to add 
 a background colour- used rgba to make it semi-transparent. also had to change the colour of the text to fit the new colour better. used w3school to get rgba color code.
 Carousel picture text only shows up in tablet (ipad only) and desktop- not mobile size. Fized by getting rid of the "d-none and d-md-block class" 
-Also nav bar doesn't show in any size smaller than desktop.
+Also nav bar doesn't show in any size smaller than desktop. fixed by adding a toggler from bootstrap.
 home menu button briefly had a dark grey box around it. somehow fixed itself- not sure how or when, but it's gone.-->
