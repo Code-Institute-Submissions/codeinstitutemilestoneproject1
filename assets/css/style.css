@@ -47,10 +47,11 @@ h2 {
   margin: auto;
 }
 
-/* Hide the images by default */
+/* Hide the images by default 
 .mySlides {
   display: none;
 }
+*/
 
 /* Next & previous buttons */
 .prev, .next {
@@ -90,7 +91,7 @@ h2 {
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
+/* Number text (1/3 etc) 
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -98,6 +99,7 @@ h2 {
   position: absolute;
   top: 0;
 }
+*/
 
 /* The dots/bullets/indicators */
 .dot {
@@ -115,7 +117,7 @@ h2 {
   background-color: #717171;
 }
 
-/* Fading animation */
+/* Fading animation 
 .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
@@ -133,8 +135,27 @@ h2 {
   to {opacity: 1}
 }
 
+*/
+
 #blurb {
     text-align: center;
+}
+
+
+/* this bit of code was altered from love running project */
+
+#club-events-main-page {
+  margin-top: 10px;
+}
+
+#lego-main-page {
+  height: auto;
+  max-width: 100%;
+  margin: 10px;
+}
+
+#competition-news-main-page {
+  margin-top: 10px;
 }
 
 footer {
