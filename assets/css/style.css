@@ -36,7 +36,14 @@ h2 {
   background-color: ghostwhite;
 }
 
+.carousel-item  div> h5 {
+  background-color: rgba(180, 180, 180, 0.6);
+  color:black;
+}
 
+.carousel-item  div h5 > a {
+  color:black;
+}
 
 #blurb {
     text-align: center;
