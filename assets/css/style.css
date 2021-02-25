@@ -55,6 +55,14 @@ margin-top: .6rem;
 text-align: center;
 }
 
+#club-info {
+  margin: 1rem;
+}
+
+#coaches-info {
+  margin: 1rem;
+}
+
 #historical-fencing {
   width: 100%;
   height: auto;
