@@ -110,6 +110,26 @@ text-align: center;
   margin: 1rem;
 }
 
+/* Taken from Love Running */
+
+#opening-times {
+  height: auto;
+  max-width: 100%;
+  margin: .6rem;
+  }
+
+#phone-and-email {
+  height: auto;
+  max-width: 100%;
+  margin: .6rem;
+  }
+
+#address {
+  height: auto;
+  max-width: 100%;
+  margin: .6rem;
+  }
+
 footer {
   font-family: 'Raleway', serif;
   font-size: 1rem;
