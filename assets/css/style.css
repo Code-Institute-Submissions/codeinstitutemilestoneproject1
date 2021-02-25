@@ -80,6 +80,13 @@ text-align: center;
   width: 100%;
 }
 
+/* added the bits to make the schedule scrollable on smaller screens*/
+#schedule-table {
+  display: inline-block;
+  width: 100%;
+  overflow-x: auto;
+}
+
 #class-description {
   margin: 1rem;
 }
