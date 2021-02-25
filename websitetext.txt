@@ -40,7 +40,8 @@ Poule- During competitions, all of the fencers of a certain weapon are split int
 	the results of the poules.
 Direct Elimination- In comeptitions, after the poules, the fencers are ranked and then placed into a table of 128 or 64 (depending on the number of competitors- the table can go as large as 256). 
 	In large competitions, only a certain number of the top fencers will advance from poules into the Direct Elimination rounds to fence off for medals.
-Bout- The individual rounds of fencing. Usually split into 3 minutes, with 5 points needing to be scored during that time. This may vary 
+Bout- The individual rounds of fencing. Usually split into 3 minutes, with 5 points needing to be scored during that time. This may vary based on the match. 
+	Poule matches are on round of 3 minutes to 5 points, while Direct Elimination matches are 3 rounds of 3 minutes in which a fencer must score a total of 15 points. 
 En Garde, Pret, Allez- Signals the start of the match. Fencers are not permitted to begin fencing prior to "Allez". Doing so may result in a warning or yellow card from the referee.
 FIE- (Fédération Internationale d'Escrime) The International Fencing Federation is the global governing body of Olympic fencing.  
 
