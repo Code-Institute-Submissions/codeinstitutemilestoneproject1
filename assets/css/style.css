@@ -130,6 +130,15 @@ text-align: center;
   margin: .6rem;
   }
 
+#form-blurb {
+  margin-left: 1rem;
+}
+
+#info-form {
+    left: 10%;
+    padding: 1rem;
+}
+
 footer {
   font-family: 'Raleway', serif;
   font-size: 1rem;

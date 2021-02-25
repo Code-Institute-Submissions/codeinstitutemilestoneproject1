@@ -121,9 +121,44 @@
         </div> 
     </div>
     </div>
+
+    <!-- For the info form, I used the given formdump address that was used in the code institute lecture. is this okay to do?-->
     <div class="row">
         <h3>Request More Info!</h3>
         <hr>
+        <div class="col-12">
+        <p id="form-blurb">If you'd like to request more information about the school or schedule your intro session, please fill out the form below.
+        </p>
+        <form method="POST" action="https://formdump.codeinstitute.net/" id="info-form">
+            <h5>Your Info:</h5>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" class="text-input" required/>
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="last_name" class="text-input" required/>
+            <br>
+            <label for="email">Email address</label>
+            <input type="email" id="email" name="email_address" class="text-input" required/>
+            <h5>Let us know if you have fenced before:</h5>
+            <label for="yes-fencing">Yes, I've fenced before</label>
+            <input type="radio" id="yes-fencing" name="fencing_experience" value="yes" required/>
+            <label for="no-fencing">No, I'm new to fencing</label>
+            <input type="radio" id="no-fencing" name="fencing_experience" value="no"/>
+            <h5>Let us know what weapon(s) you're interested in:</h5>
+            <label for="foil">Foil</label>
+            <input type="checkbox" id="foil" name="weapon-preference" value="foil"/>
+            <label for="epee">Epee</label>
+            <input type="checkbox" id="epee" name="weapon-preference" value="epee"/>
+            <label for="sabre">Sabre</label>
+            <input type="checkbox" id="sabre" name="weapon-preference" value="sabre"/>
+            <label for="unsure">Unsure</label>
+            <input type="checkbox" id="unsure" name="weapon-preference" value="unsure"/>
+            <h5>Any other information:</h5>
+            <textarea name="any-other-info" rows="10" cols="30"></textarea>
+            <br>
+            <input type="submit" class="join-button"/>
+        </form>
+        </div>
+
     </div>
 
 
