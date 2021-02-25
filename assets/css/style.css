@@ -110,6 +110,9 @@ text-align: center;
   margin: 1rem;
 }
 
+#contact-heading {
+  margin-left: 1.5rem;
+}
 /* Taken from Love Running */
 
 #opening-times {
@@ -129,6 +132,11 @@ text-align: center;
   max-width: 100%;
   margin: .6rem;
   }
+
+
+#form-header {
+  margin-left: 2rem;
+}
 
 #form-blurb {
   margin-left: 2rem;
