@@ -131,12 +131,51 @@ text-align: center;
   }
 
 #form-blurb {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 #info-form {
     left: 10%;
-    padding: 1rem;
+    margin-left: 2rem;
+}
+
+#info-prompt {
+  text-decoration: underline;
+}
+
+#fname {
+  margin-top: .6rem;
+  margin-bottom: .6rem;
+}
+
+#lname {
+  margin-top: .6rem;
+  margin-bottom: .6rem;
+}
+
+#email {
+  margin-top: .6rem;
+  margin-bottom: .6rem;
+}
+
+#fencing-experience-prompt {
+  text-decoration: underline;
+}
+
+#preference-prompt {
+  margin-top: .6rem;
+  margin-bottom: .6rem;
+  text-decoration: underline;
+}
+
+#other-info-prompt {
+  margin-top: .6rem;
+  margin-bottom: .6rem;
+  text-decoration: underline;
+}
+
+#form-pic {
+  height: 55%;
 }
 
 footer {
