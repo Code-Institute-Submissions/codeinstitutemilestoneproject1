@@ -54,6 +54,11 @@ margin: .6rem;
 margin-top: .6rem;
 text-align: center;
 }
+
+#key-fencing-terms {
+  margin-top: 1rem;
+}
+
 footer {
   font-family: 'Raleway', serif;
   font-size: 1rem;
