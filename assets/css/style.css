@@ -76,6 +76,17 @@ text-align: center;
   margin-top: 1rem;
 }
 
+#competition-table {
+  display: inline-block;
+  width: 100%;
+  overflow-x: auto;
+}
+
+#comp-results-table {
+  display: inline-block;
+  width: 100%;
+  overflow-x: auto;
+}
 #gallery-photo {
   width: 100%;
 }
