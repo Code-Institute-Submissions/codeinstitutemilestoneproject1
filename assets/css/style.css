@@ -55,6 +55,11 @@ margin-top: .6rem;
 text-align: center;
 }
 
+#historical-fencing {
+  width: 100%;
+  height: auto;
+}
+
 #key-fencing-terms {
   margin-top: 1rem;
 }
