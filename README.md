@@ -183,10 +183,19 @@ Using the Chrome Inspect tool, the following aspects of the website were tested:
 * The events, logo and club new section on Homepage- stacking on smaller screens, remaining full-sized on larger screens.
 * The text on all pages were easily read on all screen sizes. 
 * All of the tables included a scroll bar on the x-axis on screen sizes that were unable to accommodate the full table initially.
-* All of the images scaled down to fit the different screen sizes
+* All of the images scaled down to fit the different screen sizes. 
 * The Request More Info form shows that a field is required if it was not filled in.
 * The Request More Info form scales down to fit smaller screens, and the photo beside it moves below the form on smaller screens.
 
+## Small Problems (that were fixed)
+* Ran into a problem with the sliding photos and the events and compeitions bit at the bottom of the Homepage. The bit at the bottom was initially taken from the love running project, directly and then altered, but it was better in the end to delete that and write in my own code for the html side. Did keep the general format of the css part for that though. Also had a brief problem where the love running code part altered the social media footer. Fixed it by getting rid of the love running html part.
+* Found the correct carousel part on bootsrtap and added that in to the Homepage. Had a slight issue with the text on the pictures not being visible, so had to add 
+a background colour- used rgba to make it semi-transparent. (Used w3school to get rgba color code.)
+* Carousel picture text only shows up in tablet (ipad only) and desktop- not mobile size. Fized by getting rid of the "d-none and d-md-block class". Realised this 
+problem would have been solved faster if I had just read all of the bootstrap info.
+* Initially, the nav bar doesn't show in any size smaller than desktop. Fixed this by adding a toggler from bootstrap.
+* The "Home" menu button briefly had a dark grey box around it. Somehow fixed itself- not sure how or when, but it's gone.
+* Had a slight issue with the contact page with the phone, address, times part- with margins, the 3 elements don't fit on one row. Fixed by adding a blank 4th column. 
 
 
 # Deployment
@@ -235,6 +244,8 @@ The content of this website was created by Phoebe Ireland, with the exception of
 * Code Institute's Coder's Coffeehouse Project
   * Used to create the Contact Information section in [contactus.html](contactus.html)
   * Used to style the Contact Information section in [contactus.html](contactus.html)
+* [W3Schools](https://www.w3schools.com/)
+  * Used to find the correct rgba colour for the background for the text on the carousel images on the Homepage
 * [Unasplash](https://unsplash.com/)
   * Used for images on the site
 * [FreeImages](https://www.freeimages.com/)
