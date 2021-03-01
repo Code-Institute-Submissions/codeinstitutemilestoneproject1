@@ -184,6 +184,8 @@ Using the Chrome Inspect tool, the following aspects of the website were tested:
 * The text on all pages were easily read on all screen sizes. 
 * All of the tables included a scroll bar on the x-axis on screen sizes that were unable to accommodate the full table initially.
 * All of the images scaled down to fit the different screen sizes
+* The Request More Info form shows that a field is required if it was not filled in.
+* The Request More Info form scales down to fit smaller screens, and the photo beside it moves below the form on smaller screens.
 
 
 
