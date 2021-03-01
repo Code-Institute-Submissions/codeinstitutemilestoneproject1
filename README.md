@@ -20,9 +20,11 @@ The Excalibur Fencing Club website is the offical website for the Excalibur Fenc
 
 # UX
 
-## The Project- Purpose
+## The Project- Purpose and Buisness Goals
 
 The purpose of the website is to provide an online base for the Excalibur Fencing Club to promote itself- both by providing information for users seeking information about the club, and for users who are already familiar with the club (eg. current club members, or family members) to find out new information about upcoming events or competitions. 
+
+Regarding the buisness perspective, the website should be informative and engaging, for the purpose of drawing new users to the website. It should also keep previous users engaged with the website on a regular basis. This website will be the place where new events and competitions are announced, so previous users will be using te website regularly. 
 
 ## User Stories
 As a New User to the site, I want:
@@ -32,8 +34,8 @@ As a New User to the site, I want:
 4. Clean look, in which everything is readily apparent- where I need to look for certain information etc.
 
 As a Returning User to the site, I want:
-1. Site that is easy to navigate
-2. Clearly shown where the specific information I'm looking for is on the site.
+1. A site that is easy to navigate
+2. TO be clearly shown where the specific information I'm looking for is on the site.
 3. Informed of the latest events and news regarding the club.
 4. Access to any new photos that the club has released. 
 
