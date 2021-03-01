@@ -178,8 +178,12 @@ All HTML pages and CSS files were tested using the HTML and CSS Validator from W
 ## Manual Testing
 
 Using the Chrome Inspect tool, the following aspects of the website were tested:
-* The navbar- collpasing on smaller screens, remaining full-sized on larger screens
-* 
+* All of the contents of the header collapsed and stacked on smaller screens.
+* The navbar- collpasing on smaller screens, remaining full-sized on larger screens.
+* The events, logo and club new section on Homepage- stacking on smaller screens, remaining full-sized on larger screens.
+* The text on all pages were easily read on all screen sizes. 
+* All of the tables included a scroll bar on the x-axis on screen sizes that were unable to accommodate the full table initially.
+* All of the images scaled down to fit the different screen sizes
 
 
 
