@@ -39,31 +39,31 @@ This image shows the initial design for the homepage.
 It has the club name at the top left of the screen, and the club motto at the top right. The club name would be clickable, and used to bring the user back to the homepage. Noted to the side, in mobile, the club name should be stacked on top of the club motto, with the menu bar collapsed to hamburger menu. In desktop, the menu bar will be fully displayed above the club name and the motto. (In the picture, it has the menu below, but during revision, it was advised that the menu be placed above those elements)
 Underneath, there is a carousel of scrolling images, with each image containing a link to another page on the website.
 Below that, is a short blurb about the website, with some sample writing to the right of the blurb box.
-The last main part is the three blocks at the bottom containing the Upcoming Events, a photo and Competition News, from left to right. 
+The last main part is the three blocks at the bottom containing the Upcoming Events, a photo and Competition News, from left to right. On the right side of the elements, it notes that in mobile, the three elements should be stacked on top of one another.
 In the footer of the page would be the links to social media sites.
 
 ### About- Us
-![]()
+![journal page of the About-Us page](assets/images/IMG_20210301_103918.jpg)
 This image shows the initial design for the About- Us page.
 
 ### About- The Sport
-![]()
+![journal page of the About-The Sport page](assets/images/IMG_20210301_1039331.jpg)
 This image shows the initial design for the About- The Sport page.
 
 ### Competitions
-![]()
+![journal page of the Competitions page](assets/images/IMG_20210301_1039332.jpg)
 This image shows the initial design for the Competitions page.
 
 ### Pics (changed to Gallery in the website)
-![]()
+![journal page of the Gallery page](assets/images/IMG_20210301_103946.jpg)
 This image shows the initial design for the Gallery page.
 
 ### Schedule (changed to Schedule and Classes in the website)
-![]()
+![journal page of the Schedule page](assets/images/IMG_20210301_104019.jpg)
 This image shows the initial design for the Schedule and Classes page.
 
 ### Contact Us
-![]()
+![journal page of the Contact Us page](assets/images/IMG_20210301_104040.jpg)
 This image shows the initial design for the Contact Us page.
 
 
