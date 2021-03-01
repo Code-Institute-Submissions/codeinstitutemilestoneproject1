@@ -119,7 +119,7 @@ This image shows the initial design for the Schedule and Classes page.
 At the top of the page, is a table with the weekly schedule of the club. It details the starting and end times for all of the classes as well as the name of each class on the particular day of the week.
 In the final design, in order to make the tables compatible with smaller screens, a scroll bar was added to the x-axis in order to view all of the table. 
 Below that, is the section describing each class. It details the duration of the sessions as well as a brief breakdown of the class. It was here, that the pricing was added.
-Finally, This also has the Clu Events section that goes into further detail of the events mentioned on the Homepage. 
+Finally, This also has the Club Events section that goes into further detail of the events mentioned on the Homepage. 
 
 ### Contact Us
 ![journal page of the Contact Us page](assets/images/IMG_20210301_104040.jpg "Contact Us journal page")
