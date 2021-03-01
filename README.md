@@ -2,14 +2,12 @@
 
 The Excalibur Fencing Club website is the offical website for the Excalibur Fencing Club. It is designed to both inform new users about the fencing club- about the coaches and class schedule- and current members of the club about upcoming events and competition results.
 
-* Link to deployed website 
+* [Link to deployed website]()
 * [Link to github repository](https://github.com/phoebeireland/codeinstitutemilestoneproject1)
 
 
 
 # Contents
-
-
 
 1. UX
 2. The Website
@@ -88,7 +86,7 @@ The last main part is the three blocks at the bottom containing the Upcoming Eve
 In the footer of the page would be the links to social media sites.
 
 ### About- Us
-![journal page of the About-Us page](assets/images/IMG_20210301_103918.jpg)
+![journal page of the About-Us page](assets/images/IMG_20210301_103918.jpg "About- Us journal page")
 This image shows the initial design for the About- Us page.
 It has two main sections- A Club Info section and a Coach Info section.
 The Club info section has the general basic information about the club itself- when it was founded and what weapons it trains.
@@ -96,13 +94,13 @@ The Coach section has three subsections in which each of the three coaches are i
 The Club info section has the price information detailed here, although in the final version this was moved to the Schedule and Classes page.
 
 ### About- The Sport
-![journal page of the About-The Sport page](assets/images/IMG_20210301_1039331.jpg)
+![journal page of the About-The Sport page](assets/images/IMG_20210301_1039331.jpg "About- the Sport journal page")
 This image shows the initial design for the About- The Sport page.
 Initially, this page was going to have two main elements. A section on the history of fencing as a sport, and then some photos on the side.
 In the final design, the history of fencing was replaced by a list of commonly used fencing terms, with a single large photo above, rather than several down the side. 
 
 ### Competitions
-![journal page of the Competitions page](assets/images/IMG_20210301_1039332.jpg)
+![journal page of the Competitions page](assets/images/IMG_20210301_1039332.jpg "Competitions journal page")
 This image shows the initial design for the Competitions page.
 The first idea was to have a calendar marking the upcoming competition, and the user would be able to scroll through the months of the year. 
 This was replaced in the final design by a table, containing all of the same information.
@@ -110,13 +108,13 @@ The second element on the page is the table containing the results of the past c
 In the final design, in order to make the tables compatible with smaller screens, a scroll bar was added to the x-axis in order to view all of the table. 
 
 ### Pics (changed to Gallery in the website)
-![journal page of the Gallery page](assets/images/IMG_20210301_103946.jpg)
+![journal page of the Gallery page](assets/images/IMG_20210301_103946.jpg "Gallery journal page")
 This image shows the initial design for the Gallery page.
 This was a simple image, only showing that there would be 3 sections to the page- each with a heading describing the group of photos below.
 In the final design, there were only 2 sections. 
 
 ### Schedule (changed to Schedule and Classes in the website)
-![journal page of the Schedule page](assets/images/IMG_20210301_104019.jpg)
+![journal page of the Schedule page](assets/images/IMG_20210301_104019.jpg "Schedule journal page")
 This image shows the initial design for the Schedule and Classes page.
 At the top of the page, is a table with the weekly schedule of the club. It details the starting and end times for all of the classes as well as the name of each class on the particular day of the week.
 In the final design, in order to make the tables compatible with smaller screens, a scroll bar was added to the x-axis in order to view all of the table. 
@@ -124,7 +122,7 @@ Below that, is the section describing each class. It details the duration of the
 Finally, This also has the Clu Events section that goes into further detail of the events mentioned on the Homepage. 
 
 ### Contact Us
-![journal page of the Contact Us page](assets/images/IMG_20210301_104040.jpg)
+![journal page of the Contact Us page](assets/images/IMG_20210301_104040.jpg "Contact Us journal page")
 This image shows the initial design for the Contact Us page.
 At the top of the page is the contact information- phone number and email and address. In the final website, opening times were also added to this section.
 Additionally, this section was expanded horizontally, rather than stacked as shown in the image.
