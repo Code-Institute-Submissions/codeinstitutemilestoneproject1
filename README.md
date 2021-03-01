@@ -45,26 +45,46 @@ In the footer of the page would be the links to social media sites.
 ### About- Us
 ![journal page of the About-Us page](assets/images/IMG_20210301_103918.jpg)
 This image shows the initial design for the About- Us page.
+It has two main sections- A Club Info section and a Coach Info section.
+The Club info section has the general basic information about the club itself- when it was founded and what weapons it trains.
+The Coach section has three subsections in which each of the three coaches are introduced and each coach has a few sentences written about them. 
+The Club info section has the price information detailed here, although in the final version this was moved to the Schedule and Classes page.
 
 ### About- The Sport
 ![journal page of the About-The Sport page](assets/images/IMG_20210301_1039331.jpg)
 This image shows the initial design for the About- The Sport page.
+Initially, this page was going to have two main elements. A section on the history of fencing as a sport, and then some photos on the side.
+In the final design, the history of fencing was replaced by a list of commonly used fencing terms, with a single large photo above, rather than several down the side. 
 
 ### Competitions
 ![journal page of the Competitions page](assets/images/IMG_20210301_1039332.jpg)
 This image shows the initial design for the Competitions page.
+The first idea was to have a calendar marking the upcoming competition, and the user would be able to scroll through the months of the year. 
+This was replaced in the final design by a table, containing all of the same information.
+The second element on the page is the table containing the results of the past competitions. 
+In the final design, in order to make the tables compatible with smaller screens, a scroll bar was added to the x-axis in order to view all of the table. 
 
 ### Pics (changed to Gallery in the website)
 ![journal page of the Gallery page](assets/images/IMG_20210301_103946.jpg)
 This image shows the initial design for the Gallery page.
+This was a simple image, only showing that there would be 3 sections to the page- each with a heading describing the group of photos below.
+In the final design, there were only 2 sections. 
 
 ### Schedule (changed to Schedule and Classes in the website)
 ![journal page of the Schedule page](assets/images/IMG_20210301_104019.jpg)
 This image shows the initial design for the Schedule and Classes page.
+At the top of the page, is a table with the weekly schedule of the club. It details the starting and end times for all of the classes as well as the name of each class on the particular day of the week.
+In the final design, in order to make the tables compatible with smaller screens, a scroll bar was added to the x-axis in order to view all of the table. 
+Below that, is the section describing each class. It details the duration of the sessions as well as a brief breakdown of the class. It was here, that the pricing was added.
+Finally, This also has the Clu Events section that goes into further detail of the events mentioned on the Homepage. 
 
 ### Contact Us
 ![journal page of the Contact Us page](assets/images/IMG_20210301_104040.jpg)
 This image shows the initial design for the Contact Us page.
+At the top of the page is the contact information- phone number and email and address. In the final website, opening times were also added to this section.
+Additionally, this section was expanded horizontally, rather than stacked as shown in the image.
+Below the contact information is a form the users can fill out to request more information.
+The drawing shows a basic form idea, though the final form was more detailed. To the right, is the example of the blurb to be shown above the form. 
 
 
 # The Website
