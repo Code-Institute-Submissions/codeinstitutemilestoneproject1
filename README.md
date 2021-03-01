@@ -195,6 +195,7 @@ a background colour- used rgba to make it semi-transparent. (Used w3school to ge
 problem would have been solved faster if I had just read all of the bootstrap info.
 * Initially, the nav bar doesn't show in any size smaller than desktop. Fixed this by adding a toggler from bootstrap.
 * The "Home" menu button briefly had a dark grey box around it. Somehow fixed itself- not sure how or when, but it's gone.
+* Small issue where the gallery photos were not getting smaller on smaller screens. Fixed by adding "max-width" style in corresponding CSS part. 
 * Had a slight issue with the contact page with the phone, address, times part- with margins, the 3 elements don't fit on one row. Fixed by adding a blank 4th column. 
 
 
@@ -246,6 +247,8 @@ The content of this website was created by Phoebe Ireland, with the exception of
   * Used to style the Contact Information section in [contactus.html](contactus.html)
 * [W3Schools](https://www.w3schools.com/)
   * Used to find the correct rgba colour for the background for the text on the carousel images on the Homepage
+* [Wikipedia](https://www.wikipedia.org/)
+  * Used to find content for the About- The Sport page
 * [Unasplash](https://unsplash.com/)
   * Used for images on the site
 * [FreeImages](https://www.freeimages.com/)
