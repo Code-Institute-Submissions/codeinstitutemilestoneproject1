@@ -132,22 +132,40 @@ Below the contact information is a form the users can fill out to request more i
 The drawing shows a basic form idea, though the final form was more detailed. To the right, is the example of the blurb to be shown above the form. 
 
 
-# The Website
+# Features
+* All pages will have a header with the Club Name at the top left, and the Club Motto on the top right. There is also a Menu bar above the Club name and motto.
+* On smaller screens, the header will collapse, and the elements will stack on top of each other. 
+* All pages will also have a footer containing social media links.
 
 ### The Homepage
+* A scrolling carousel that displays images and links to other pages on the site. The carousel can be controlled by the user, although it will cycle through the images on its own by default. 
+* A blurb section that offers users a short introduction to the club.
+* A three-part section that includes Upcoming Events, a photo and Competition News. The information in these sections will be condensed, and there will be links to the relevant pages for more information.
 
 ### About-Us
+* A section dedicated to an introduction and description of what the club is and does.
+* A section that introduces the coaches of the club and provides a small amount of information about the coaches themselves.
 
 ### About- The Sport
+* A main photo above the text content for visual interest
+* A list of key fencing terms that will briefly introduce the sport and the main points of the sport a new user may find interesting.
+* Links to find more detailed information about the sport and links to Youtube channels for new users to see fencing in action.
 
 ### Competitions
+* A table with the upcoming fencing competitions. It contains the competition name, location, weapon, whether the competition is teams or individual, the ranking of the competition and the date on which it is to be held.
+* A table with the recent competition results for club members. It contains the competition name, the name(s) of the fencer(s), the weapon fenced and the rank achieved. 
 
 ### Gallery
+* Two sections with the name of the Album at the top, followed by a selection of photos underneath.
 
 ### Schedule and Classes
+* A table at the top of the page that shows the weekly schedule of classes.
+* A section describing the classes available and the pricing scheme of the classes.
+* A section that details the Upcoming Club events. This section is an expansion of the element on the Homepage. It offers more detail as to the upcoming events and information on how to sign up to the events.
 
 ### Contact Us
-
+* A section at the top of the page detailing opening times, a contact number and email address and a physical address of the club.
+* A form that can be used by a new user in order to request more information or to sign up for a trial lesson. 
 
 
 # Testing the Site
