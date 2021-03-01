@@ -84,7 +84,8 @@ The content of this website was created by Phoebe Ireland, with the exception of
 * [FreeImages](https://www.freeimages.com/)
   * Used for images on the site
 * [Pexels](https://www.pexels.com/)
-  * Used for images on the site  
-All of the content that was taken from other sources was altered to fit the use of this website where necessary (ie. not the images).
+  * Used for images on the site.  
+   
+   All of the content that was taken from other sources was altered to fit the use of this website where necessary (ie. not the images).
 
 A special thank you to my mentor for helping me though the project, and pointing out my (numerous) mistakes. 
