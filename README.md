@@ -2,8 +2,8 @@
 
 The Excalibur Fencing Club website is the offical website for the Excalibur Fencing Club. It is designed to both inform new users about the fencing club- about the coaches and class schedule- and current members of the club about upcoming events and competition results.
 
-* Link to deployed website
-* Link to github repository
+* Link to deployed website 
+* [Link to github repository](https://github.com/phoebeireland/codeinstitutemilestoneproject1)
 
 
 
@@ -70,7 +70,7 @@ The content of this website was created by Phoebe Ireland, with the exception of
 * [Google Fonts](https://fonts.google.com/)
   * Used to apply the Raleway font to all pages
 * [Bootstrap](https://getbootstrap.com/)
-  * Used to create the navbar in the header element
+  * Used to create the navbar in the header element of all pages
   * Used to create the carousel of images in [index.html](index.html) 
   * Used to add a talbe border to the tables in [competitions.html](competitions.html) and [schedule.html](schedule.html)
 * Code Institute's Love Running Project
@@ -84,7 +84,7 @@ The content of this website was created by Phoebe Ireland, with the exception of
 * [FreeImages](https://www.freeimages.com/)
   * Used for images on the site
 * [Pexels](https://www.pexels.com/)
-  * Used for images on the site
+  * Used for images on the site  
 All of the content that was taken from other sources was altered to fit the use of this website where necessary (ie. not the images).
 
 A special thank you to my mentor for helping me though the project, and pointing out my (numerous) mistakes. 
