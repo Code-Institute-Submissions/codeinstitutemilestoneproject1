@@ -172,8 +172,8 @@ The drawing shows a basic form idea, though the final form was more detailed. To
 
 
 All HTML pages and CSS files were tested using the HTML and CSS Validator from W3.
-* Link to the [HTML Validator](https://validator.w3.org./)
-* Link to the [CSS Validator](https://jigsaw.w3.org/css-validator/)
+* Link to the [HTML Validator](https://validator.w3.org./) used
+* Link to the [CSS Validator](https://jigsaw.w3.org/css-validator/) used
 
 ## Manual Testing
 
