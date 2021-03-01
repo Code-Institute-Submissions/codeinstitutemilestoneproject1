@@ -2,7 +2,7 @@
 
 The Excalibur Fencing Club website is the offical website for the Excalibur Fencing Club. It is designed to both inform new users about the fencing club- about the coaches and class schedule- and current members of the club about upcoming events and competition results.
 
-* [Link to deployed website]()
+* [Link to deployed website](https://phoebeireland.github.io/codeinstitutemilestoneproject1/)
 * [Link to github repository](https://github.com/phoebeireland/codeinstitutemilestoneproject1)
 
 
@@ -200,7 +200,7 @@ problem would have been solved faster if I had just read all of the bootstrap in
 # Deployment
 The Website was created in Visual Studio Code, version controlled with Git and hosted on Github. 
 
-This website has been deployed to GitHub Pages- [link to website]()
+This website has been deployed to GitHub Pages- [link to website](https://phoebeireland.github.io/codeinstitutemilestoneproject1/)
 Steps to publish website to GitHub Pages:
 1. On the main page of the repository, click settings.
 2. Scroll to the GitHub Pages section.
