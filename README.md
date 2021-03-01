@@ -11,18 +11,61 @@ The Excalibur Fencing Club website is the offical website for the Excalibur Fenc
 
 
 
-1. The Design
+1. UX
 2. The Website
 3. Testing the Site
 4. Deployment
 5. Credits
 
 
-# The Design
+# UX
 
 ## The Project- Purpose
 
 The purpose of the website is to provide an online base for the Excalibur Fencing Club to promote itself- both by providing information for users seeking information about the club, and for users who are already familiar with the club (eg. current club members, or family members) to find out new information about upcoming events or competitions. 
+
+## User Stories
+As a New User to the site, I want:
+1. The ability to find out more information about fencing and this club in particular.
+2. The schedule of classes for the club, and the price of those classes. 
+3. Dynamic images to get me interested in the sport
+4. Clean look, in which everything is readily apparent- where I need to look for certain information etc.
+
+As a Returning User to the site, I want:
+1. Site that is easy to navigate
+2. Clearly shown where the specific information I'm looking for is on the site.
+3. Informed of the latest events and news regarding the club.
+4. Access to any new photos that the club has released. 
+
+## Design Choices
+The overall feel of the website should be clean and centered mainly around the information. That being said, there should not be an overload of information that might scare off new users. New users should leave feeling informed about the sport and the club, but not overwhelmed by an encyclopedia's worth of information. 
+
+### Font
+The font used on the site is Raleway. It was found on Google Fonts, and was chosen for its modern look and easy readability. 
+
+### Icons
+The icons used in the footer to represent the social media pages were chosen for their ability to convey their intended meaning clearly. 
+
+### Colours
+The main colours used on the site are:
+* Gainsboro for the background colour
+* Black for the font colour
+* Ghostwhite for the Menu bar
+* Dimgrey for the Social Media links in the Footer
+* Blue for the tables
+
+The colours were chosen due to their clean, complementary look. 
+
+The additional grey colour that was used for a background for the text in the carousel of images in the Homepage was chosen to fit the overall grey theme to the page. There is added opacity in order for the user to still view the majority of the image, while also still being able to read the text provided. Due to the grey colour of the background, the text colour for this element was able to remain black. 
+
+### Styling
+The tables on the website were all given the same look (blue borders) for consistency. 
+For the most part, all the elements on the page are given their own row. This makes for easy reading both on desktop and mobile.
+The few elements that share a row are displayed one after another in desktop, and stacked in smaller screens. 
+
+### Images
+All of the images on the website were chosen due to their relevance to the topic of fencing. 
+A few of the images are of Lego figures in order to keep a sense of fun regardding the sport.
 
 ## Wireframe Designs
 The Wireframe designs were created in a notebook using a pencil, and the following images are photos taken from the notebook. As they are handwritten, some of the writing may not be fully legible to all readers. To combat this, I have added a typed description of all pages below the image. Please refer to those if needed.  
@@ -89,9 +132,19 @@ The drawing shows a basic form idea, though the final form was more detailed. To
 
 # The Website
 
+### The Homepage
 
+### About-Us
 
-## 
+### About- The Sport
+
+### Competitions
+
+### Gallery
+
+### Schedule and Classes
+
+### Contact Us
 
 
 
@@ -128,10 +181,13 @@ The content of this website was created by Phoebe Ireland, with the exception of
   * Used to add a talbe border to the tables in [competitions.html](competitions.html) and [schedule.html](schedule.html)
 * Code Institute's Love Running Project
   * Used to create the social media links in the footer element of all pages
+  * Used to style the social media links in the footer element of all pages
+  * Used to style the 3 bottom row elements on the homepage
 * [Font Awesome](https://fontawesome.com/)
   * Used to add the social media logos in the footer element of all pages
 * Code Institute's Coder's Coffeehouse Project
   * Used to create the Contact Information section in [contactus.html](contactus.html)
+  * Used to style the Contact Information section in [contactus.html](contactus.html)
 * [Unasplash](https://unsplash.com/)
   * Used for images on the site
 * [FreeImages](https://www.freeimages.com/)
