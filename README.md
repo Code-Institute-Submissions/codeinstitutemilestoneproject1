@@ -184,7 +184,28 @@ Using the Chrome Inspect tool, the following aspects of the website were tested:
 
 
 # Deployment
+The Website was created in Visual Studio Code, version controlled with Git and hosted on Github. 
 
+This website has been deployed to GitHub Pages- [link to website]()
+Steps to publish website to GitHub Pages:
+1. On the main page of the repository, click settings.
+2. Scroll to the GitHub Pages section.
+3. In the Source section, click "None" and change the selected branch to "main". 
+4. Leave the following option as (root), and click "Save"
+5. Once the repository is published, a link to the website will be shown in the GitHub Pages section. 
+
+To Clone this repository using IDE Terminal:
+1. Navigate locally to the directory in which you want to save the repository.
+2. On the main page of the repository, click the "Code" button, and copy the HTTPS address.
+3. In the terminal, run the command: 'git clone' followed by the HTTPS address.
+4. The project will now be saved to the desired directory. 
+
+To Clone this repository using Visual Studio Code:
+1. Open a new window in VSCode.
+2. On the main page of the repository, click the "Code" button, and copy the HTTPS address.
+3. Back in VSCode, under "Start" click "clone repository" and paste the link into the textbox that pops up.
+4. Navigate into the folder that you want the repository to be saved into, and "Select Repository Location".
+5. The repository will now be saved to the selected location.
 
 
 # Credits
