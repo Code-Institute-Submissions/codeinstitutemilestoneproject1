@@ -206,15 +206,3 @@ footer {
   padding: 5%;
   color:dimgray;
 }
-
-@media screen and (max-width: 943px) {
-  #gallery-photo {
-    column-count: 1;
-  }
-}
-
-@media screen and (max-width: 800px) {
-  #gallery-photo {
-    column-count: 1;
-  }
-}
