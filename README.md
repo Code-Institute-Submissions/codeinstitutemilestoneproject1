@@ -20,18 +20,27 @@ The Excalibur Fencing Club website is the offical website for the Excalibur Fenc
 
 # The Design
 
-
-
 ## The Project- Purpose
 
 The purpose of the website is to provide an online base for the Excalibur Fencing Club to promote itself- both by providing information for users seeking information about the club, and for users who are already familiar with the club (eg. current club members, or family members) to find out new information about upcoming events or competitions. 
 
 ## Wireframe Designs
-The Wireframe designs were created in a notebook using a pencil, and the following images are photos taken from the notebook. As they are handwritten, some of the writing may not be fully legible to all readers. To combat this, I have added a typed description of all pages below the image. PLease refer to those if needed.
+The Wireframe designs were created in a notebook using a pencil, and the following images are photos taken from the notebook. As they are handwritten, some of the writing may not be fully legible to all readers. To combat this, I have added a typed description of all pages below the image. Please refer to those if needed.  
 
-### The Initial Overview of Pages to be included in the website
+Please keep in mind that the drawings were the first stage of the design. and the actual website may look somewhat different from the drawings. Where the two differ, I offer an explanation as to why. 
+
+### The Initial Overview 
+![journal page of the Overview](assets/images/IMG_20210301_102551.jpg)
+This images shows a list of the pages to be included in the website. It includes the main names of the pages, as well as any initial supplimentary information regarding to the content of the proposed page. 
+
+### The Homepage
 ![]()
-This images shows a list of the pages to be included in the website. 
+This image shows the initial design for the homepage.
+It has the club name at the top left of the screen, and the club motto at the top right. The club name would be clickable, and used to bring the user back to the homepage. Noted to the side, in mobile, the club name should be stacked on top of the club motto, with the menu bar collapsed to hamburger menu. In desktop, the menu bar will be fully displayed above the club name and the motto. (In the picture, it has the menu below, but during revision, it was advised that the menu be placed above those elements)
+Underneath, there is a carousel of scrolling images, with each image containing a link to another page on the website.
+Below that, is a short blurb about the website, with some sample writing to the right of the blurb box.
+The last main part is the three blocks at the bottom containing the Upcoming Events, a photo and Competition News, from left to right. 
+In the footer of the page would be the links to social media sites.
 
 
 # The Website
