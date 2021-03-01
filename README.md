@@ -1,17 +1,15 @@
 # Excalibur Fencing Club Website
 
----
-
 The Excalibur Fencing Club website is the offical website for the Excalibur Fencing Club. It is designed to both inform new users about the fencing club- about the coaches and class schedule- and current members of the club about upcoming events and competition results.
 
 * Link to deployed website
 * Link to github repository
 
----
+
 
 # Contents
 
----
+
 
 1. The Design
 2. The Website
@@ -19,11 +17,10 @@ The Excalibur Fencing Club website is the offical website for the Excalibur Fenc
 4. Deployment
 5. Credits
 
----
 
 # The Design
 
----
+
 
 ## The Project- Purpose
 
@@ -36,19 +33,18 @@ The Wireframe designs were created in a notebook using a pencil, and the followi
 ![]()
 This images shows a list of the pages to be included in the website. 
 
----
+
 # The Website
 
----
+
 
 ## 
 
 
----
 
 # Testing the Site
 
----
+
 All HTML pages and CSS files were tested using the HTML and CSS Validator from W3.
 * Link to the [HTML Validator](https://validator.w3.org./)
 * Link to the [CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -59,17 +55,15 @@ Using the Chrome Inspect tool, the following aspects of the website were tested:
 * The navbar- collpasing on smaller screens, remaining full-sized on larger screens
 * 
 
----
+
 
 # Deployment
 
----
 
----
 
 # Credits
 
----
+
 Created by Phoebe Ireland
 
 The content of this website was created by Phoebe Ireland, with the exception of the following:
