@@ -73,9 +73,24 @@ Using the Chrome Inspect tool, the following aspects of the website were tested:
 Created by Phoebe Ireland
 
 The content of this website was created by Phoebe Ireland, with the exception of the following:
-* Bootstrap
+* [Google Fonts](https://fonts.google.com/)
+  * Used to apply the Raleway font to all pages
+* [Bootstrap](https://getbootstrap.com/)
   * Used to create the navbar in the header element
   * Used to create the carousel of images in [index.html](index.html) 
+  * Used to add a talbe border to the tables in [competitions.html](competitions.html) and [schedule.html](schedule.html)
 * Code Institute's Love Running Project
-* 
-All of the content that was taken from other sources was altered to fit the use of this website where necessary.
+  * Used to create the social media links in the footer element of all pages
+* [Font Awesome](https://fontawesome.com/)
+  * Used to add the social media logos in the footer element of all pages
+* Code Institute's Coder's Coffeehouse Project
+  * Used to create the Contact Information section in [contactus.html](contactus.html)
+* [Unasplash](https://unsplash.com/)
+  * Used for images on the site
+* [FreeImages](https://www.freeimages.com/)
+  * Used for images on the site
+* [Pexels](https://www.pexels.com/)
+  * Used for images on the site
+All of the content that was taken from other sources was altered to fit the use of this website where necessary (ie. not the images).
+
+A special thank you to my mentor for helping me though the project, and pointing out my (numerous) mistakes. 
